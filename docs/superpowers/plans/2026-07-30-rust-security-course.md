@@ -26,7 +26,7 @@ privilegios, explotación ni dependencias externas sin autorización.
 2. Amenazas: activos, fronteras, STRIDE y priorización de riesgos. [x]
 3. Aplicación: validación, OWASP y tratamiento de datos no confiables. [x]
 4. Telemetría: análisis sintético, secretos y observabilidad defensiva. [x]
-5. Hardening: configuraciones, mínimos privilegios y respuesta a incidentes.
+5. Hardening: configuraciones, mínimos privilegios y respuesta a incidentes. [x]
 6. Cierre: glosario, referencias, auditoría y estado `draft`.
 
 ## Ruta crítica
