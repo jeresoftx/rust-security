@@ -23,7 +23,7 @@ privilegios, explotación ni dependencias externas sin autorización.
 ## Fases
 
 1. Fundación: alcance legal, ética y contrato de laboratorio.
-2. Amenazas: activos, fronteras, STRIDE y priorización de riesgos.
+2. Amenazas: activos, fronteras, STRIDE y priorización de riesgos. [x]
 3. Aplicación: validación, OWASP y tratamiento de datos no confiables.
 4. Telemetría: análisis sintético, secretos y observabilidad defensiva.
 5. Hardening: configuraciones, mínimos privilegios y respuesta a incidentes.
