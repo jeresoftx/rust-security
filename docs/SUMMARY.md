@@ -1,3 +1,3 @@
 # Rust Security
 
-El índice se completa mediante el plan operativo del curso.
+- [Alcance legal y laboratorio](00-alcance-legal-y-laboratorio.md)
